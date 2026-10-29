@@ -1,36 +1,70 @@
-<h1 align="center">Hi 👋, I'm PGamerX</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Yt Dislikes Viewer](https://github.com/pgamerx/yt-dislikes-viewer)
+# Hey, I'm Naman 👋
 
-- 🌱 I’m currently learning **Python, C#**
+<a href="https://namanmed.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C96442&center=true&vCenter=true&width=560&lines=MBBS+student+%40+SGRD%2C+Amritsar;Once+PGamerX%2C+a+backend+developer;293%E2%AD%90+extension+%C2%B7+Discord+bots+%C2%B7+a+free+API;Now+building+tools+for+medicine+and+AI" alt="Typing intro" /></a>
 
-- 🔭 I’m also working on [djs-tickers](https://github.com/pgamerx/djs-tickets)
+[![Website](https://img.shields.io/badge/namanmed.com-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://namanmed.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanmed)
+[![Email](https://img.shields.io/badge/me@namanmed.com-c96442?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@namanmed.com)
 
-- 👨‍💻 All of my projects are available at [My website](https://pgamerx.com)
+</div>
 
-- 📝 I sometimes write articles on [My Medium page](https://u.pgamerx.com/medium)
+---
 
-- 📫 Reach me on **admin@pgamerx.com**
+### 🩺 About me
 
+I'm a third-year MBBS student at SGRD Institute of Medical Sciences and Research, Amritsar.
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Can Github Copilot beat the hardest coding questions from Google?](https://pgamerxdev.medium.com/can-github-copilot-beat-the-hardest-coding-questions-from-google-941315a762fa?source=rss-ae0fcd7606d------2)
-- [To the user who falsely accused me, Thank you](https://pgamerxdev.medium.com/to-the-user-who-falsely-accused-me-thank-you-ee05793b22dc?source=rss-ae0fcd7606d------2)
-- [Dear discord….Thank you](https://pgamerxdev.medium.com/dear-discord-thank-you-657a9c3afcc0?source=rss-ae0fcd7606d------2)
-- [How exactly to start your coding journey? | The beginner’s guide](https://pgamerxdev.medium.com/how-exactly-to-start-your-coding-journey-the-beginners-guide-7744db477249?source=rss-ae0fcd7606d------2)
-- [How to keep your bot alive without Discord.py](https://pgamerxdev.medium.com/how-to-keep-your-bot-alive-without-discord-py-c93049d7d1c0?source=rss-ae0fcd7606d------2)
-<!-- BLOG-POST-LIST:END -->
+Before medicine I spent years online as **PGamerX**, a self-taught backend developer from India. I shipped a browser extension used by thousands, ran Discord bots for large communities, hosted a free public API, and sold one of my extensions for **$1,000**.
 
+These days the stethoscope comes first, but I still build things: tools for safer clinical work, an easier path through medical school, and better ways to work with AI.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ytpgamerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ytpgamerx" height="30" width="40" /></a>
-<a href="https://medium.com/@pgamerxdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pgamerxdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pgamerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pgamerx" height="30" width="40" /></a>
-<a href="https://discord.gg/4TeGKpSkdN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4TeGKpSkdN" height="30" width="40" /></a>
+---
+
+### 🔨 Building now
+
+**[Baton](https://github.com/pgamerx/baton)** lets several Claude Code accounts work on one project in parallel. Sessions claim their own tasks, hand work over at usage limits, and restart from a saved summary at 70% context instead of compacting.
+
+<p align="center">
+  <a href="https://github.com/pgamerx/baton"><img src="https://raw.githubusercontent.com/pgamerx/baton/main/docs/img/baton-demo.gif" alt="Baton demo" width="640"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
+
+### 🕹️ The PGamerX years
+
+| Project | What it was | |
+|---|---|---|
+| [**Yt Dislikes Viewer**](https://github.com/pgamerx/yt-dislikes-viewer) | Browser extension that brought back YouTube dislikes after YouTube hid them | ![stars](https://img.shields.io/github/stars/pgamerx/yt-dislikes-viewer?style=flat-square&color=c96442) |
+| [**Muser**](https://github.com/PGamerX-Legacy/muser) | Discord music bot on discord.js v13, run with Peiprjs and Luckie | ![stars](https://img.shields.io/github/stars/PGamerX-Legacy/muser?style=flat-square&color=c96442) |
+| [**Random Stuff API**](https://github.com/pgamerx/RandomStuffApi) | A free public API I built and kept running for other developers | ![stars](https://img.shields.io/github/stars/pgamerx/RandomStuffApi?style=flat-square&color=c96442) |
+| [**djs-tickets**](https://github.com/pgamerx/djs-tickets) | npm package that adds a ticket system to any discord.js bot | ![stars](https://img.shields.io/github/stars/pgamerx/djs-tickets?style=flat-square&color=c96442) |
+
+---
+
+### ✍️ Writing
+
+- [Can GitHub Copilot beat the hardest coding questions from Google?](https://pgamerxdev.medium.com/can-github-copilot-beat-the-hardest-coding-questions-from-google-941315a762fa)
+- [How exactly to start your coding journey: the beginner's guide](https://pgamerxdev.medium.com/how-exactly-to-start-your-coding-journey-the-beginners-guide-7744db477249)
+- [How to keep your bot alive without Discord.py](https://pgamerxdev.medium.com/how-to-keep-your-bot-alive-without-discord-py-c93049d7d1c0)
+- [Dear Discord… thank you](https://pgamerxdev.medium.com/dear-discord-thank-you-657a9c3afcc0)
+- [To the user who falsely accused me, thank you](https://pgamerxdev.medium.com/to-the-user-who-falsely-accused-me-thank-you-ee05793b22dc)
+
+---
+
+### 🛠️ Tools I've built with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,py,cs,html,css,nginx,unity,vercel,redis,git&theme=dark" alt="JavaScript, TypeScript, Node.js, Express, Python, C#, HTML, CSS, nginx, Unity, Vercel, Redis, Git" />
+</p>
+
+---
+
+<p align="left">
+  <a href="https://github.com/pgamerx?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/pgamerx?style=for-the-badge&label=total%20stars&color=c96442&labelColor=1b1a18" alt="Total stars" /></a>
+  <a href="https://github.com/pgamerx?tab=followers"><img src="https://img.shields.io/github/followers/pgamerx?style=for-the-badge&color=c96442&labelColor=1b1a18" alt="Followers" /></a>
+  <a href="https://github.com/PGamerX-Legacy"><img src="https://img.shields.io/github/stars/PGamerX-Legacy?style=for-the-badge&label=PGamerX-Legacy%20stars&color=c96442&labelColor=1b1a18" alt="PGamerX-Legacy stars" /></a>
+</p>
+
+<p align="center"><i>From shipping code to taking histories. Still debugging, just a different system.</i></p>
