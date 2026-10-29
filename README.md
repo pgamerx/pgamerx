@@ -2,7 +2,7 @@
 
 # Hey, I'm Naman 👋
 
-<a href="https://namanmed.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C96442&center=true&vCenter=true&width=560&lines=MBBS+student+%40+SGRD%2C+Amritsar;Once+PGamerX%2C+a+backend+developer;293%E2%AD%90+extension+%C2%B7+Discord+bots+%C2%B7+a+free+API;Now+building+tools+for+medicine+and+AI" alt="Typing intro" /></a>
+<a href="https://namanmed.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C96442&center=true&vCenter=true&width=560&lines=Studying+Medicine+%40+SGRD%2C+Amritsar;Once+PGamerX%2C+a+backend+developer;293%E2%AD%90+extension+%C2%B7+Discord+bots+%C2%B7+a+free+API;Now+building+tools+for+medicine+and+AI" alt="Typing intro" /></a>
 
 [![Website](https://img.shields.io/badge/namanmed.com-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://namanmed.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanmed)
