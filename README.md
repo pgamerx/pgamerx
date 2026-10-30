@@ -24,22 +24,22 @@ These days the stethoscope comes first, but I still build things: tools for safe
 
 ### 🔨 Building now
 
-**[Baton](https://github.com/pgamerx/baton)** lets several Claude Code accounts work on one project in parallel. Sessions claim their own tasks, hand work over at usage limits, and restart from a saved summary at 70% context instead of compacting.
+**[Coshift](https://github.com/pgamerx/coshift)** lets several Claude Code accounts work on your projects in parallel, with one shared board per project. Sessions claim their own tasks, never edit the same files, hand work over at usage limits, and restart from a saved summary at 70% context instead of compacting.
 
 <p align="center">
-  <a href="https://github.com/pgamerx/baton"><img src="https://raw.githubusercontent.com/pgamerx/baton/main/docs/img/baton-demo.gif" alt="Baton demo" width="640"></a>
+  <a href="https://github.com/pgamerx/coshift"><img src="https://raw.githubusercontent.com/pgamerx/coshift/main/docs/img/coshift-demo.gif" alt="Coshift demo: two Claude Code accounts share a task board and hand work over at their limits" width="640"></a>
 </p>
 
 ---
 
 ### 🕹️ The PGamerX years
 
-| Project | What it was | |
+| Project | What it was | Stars |
 |---|---|---|
-| [**Yt Dislikes Viewer**](https://github.com/pgamerx/yt-dislikes-viewer) | Browser extension that brought back YouTube dislikes after YouTube hid them | ![stars](https://img.shields.io/github/stars/pgamerx/yt-dislikes-viewer?style=flat-square&color=c96442) |
-| [**Muser**](https://github.com/PGamerX-Legacy/muser) | Discord music bot on discord.js v13, run with Peiprjs and Luckie | ![stars](https://img.shields.io/github/stars/PGamerX-Legacy/muser?style=flat-square&color=c96442) |
-| [**Random Stuff API**](https://github.com/pgamerx/RandomStuffApi) | A free public API I built and kept running for other developers | ![stars](https://img.shields.io/github/stars/pgamerx/RandomStuffApi?style=flat-square&color=c96442) |
-| [**djs-tickets**](https://github.com/pgamerx/djs-tickets) | npm package that adds a ticket system to any discord.js bot | ![stars](https://img.shields.io/github/stars/pgamerx/djs-tickets?style=flat-square&color=c96442) |
+| [**Yt Dislikes Viewer**](https://github.com/pgamerx/yt-dislikes-viewer) | Browser extension that brought back YouTube dislikes after YouTube hid them | ⭐ 293 |
+| [**Muser**](https://github.com/PGamerX-Legacy/muser) | Discord music bot on discord.js v13, run with Peiprjs and Luckie | ⭐ 61 |
+| [**Random Stuff API**](https://github.com/pgamerx/RandomStuffApi) | A free public API I built and kept running for other developers | ⭐ 20 |
+| [**djs-tickets**](https://github.com/pgamerx/djs-tickets) | npm package that adds a ticket system to any discord.js bot | ⭐ 3 |
 
 ---
 
